@@ -1,0 +1,33 @@
+# _{Git and Markdown Practice}_
+
+#### _{This is supposed to be a practice combining git and markdown}, {1/25/16}_
+
+#### By _**{Arla Jean Wood}**_
+
+## Description
+
+_{I tried to replicate a news article from npr about why voters are so scared this voting season. }_
+
+## Setup/Installation Requirements
+
+* _In theory this should all just work but it's a markdown file that I opened in Atom._
+
+_{I want to make this easier for you but I have no fucking idea what I'm doing! Hopefully it works.  Praise technology.}_
+
+## Known Bugs
+
+_{Well it's a markdown file in Atom so, I feel like I should be using html formatting instead of markdown but...we'll see! }_
+
+## Support and contact details
+
+_{Please contact Arla Jean Wood at pabloandarla@gmail.com if you there are any problems}_
+
+## Technologies Used
+
+_{I made the initial document on Dillenger but then made a markdown doc in my project folder which opened in Atom.}_
+
+### License
+
+*{Determine the license under which this application can be used.  See below for more details on licensing.}*
+
+Copyright (c) 2015 **_{List of contributors or company name}_**
